@@ -1,12 +1,12 @@
 [
   {
     "name": "Quang Vu",
-    "number": 8507597075,
-    "userID": "10000",
+    "number": "8507597075",
+    "userID": "10000"
   },
   {
     "name": "Duy Vu",
-    "number": 8139907589,
-    "userID": "10001",
+    "number": "8139907589",
+    "userID": "10001"
   }
 ]
